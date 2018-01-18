@@ -59,5 +59,4 @@ public class Solution {
             count = 0; //обнуляем счетчик
         }
     }
-
 }
